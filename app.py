@@ -1,3 +1,7 @@
+# VIRTUAL ENV
+# virtualenv -p python3 .
+
+
 from math import * # need this for more advanced math functions
 from string import Template #for template strings
 from Student import Student,Question
